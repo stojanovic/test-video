@@ -1,6 +1,6 @@
 resourceDir: resources
 size: 720p
-voice: carol
+voice: helmut
 background:
   audio: background-music.mp3
   volume: 0.3
