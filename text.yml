@@ -1,5 +1,6 @@
 resourceDir: resources
 size: 720p
+voice: carol
 background:
   audio: background-music.mp3
   volume: 0.3
@@ -19,12 +20,7 @@ scenes:
       Once your request is approved, you'll receive a Slack notification!
   - image: background.png
     narration: >
-      It's that simple!
-  - image: background.png
-    duration: 2
-  - image: background.png
-    narration: >
-      Happy vacationing!
+      It's that simple. Happy vacationing!
   - image: background.png
     duration: 2
 
