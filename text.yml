@@ -1,0 +1,30 @@
+resourceDir: resources
+size: 720p
+background:
+  audio: background-music.mp3
+  volume: 0.3
+scenes:
+  - image: background.png
+    duration: 2
+  - image: background.png
+    narration: >
+      Vacation Tracker is the easiest way to track your team’s vacations and days off
+  - video: request.mov
+    narration: >
+      You can request your vacation by typing slash vacation in Slack and following the instructions presented by our awesome chatbot.
+  - image: background.png
+    duration: 2
+  - video: response.mov
+    narration: >
+      Once your request is approved, you'll receive a Slack notification!
+  - image: background.png
+    narration: >
+      It's that simple!
+  - image: background.png
+    duration: 2
+  - image: background.png
+    narration: >
+      Happy vacationing!
+  - image: background.png
+    duration: 2
+
